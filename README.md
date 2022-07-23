@@ -1,4 +1,4 @@
-### Hi, I'm Dan 👋 A Cpmputer Science Student and an Aspiring Android Engineer && Back End Engineer 
+### Hi, I'm Dan 👋 A Computer Science Student and an Aspiring Android Engineer && Back End Engineer 
 ⚡ Fun fact: I  have a space theory hahaha... <br>
 👯 I’m looking to collaborate on Android Projects / Spring Back End Projects
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmwinzi&show_icons=true&theme=github_dark)]()<br>
