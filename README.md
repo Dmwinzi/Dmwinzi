@@ -1,7 +1,7 @@
 ### Hi, I'm Dan 👋 A Cpmputer Science Student and an Aspiring Android Engineer && Back End Engineer 
 ⚡ Fun fact: I  have a space theory hahaha... <br>
 👯 I’m looking to collaborate on Android Projects / Spring Back End Projects
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmwinzi&show_icons=true&theme=github_dark)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmwinzi&show_icons=true&theme=github_dark)]()<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmwinzi&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmwinzi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
