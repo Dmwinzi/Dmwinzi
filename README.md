@@ -1,4 +1,4 @@
-### Hello there! 👋 I'm Dan, a passionate computer science student with a knack for mobile and backend development. I thrive on building innovative solutions and creating digital experiences that make a difference. Whether it's crafting intuitive mobile apps or architecting robust backend systems, I'm always up for a coding challenge. Let's connect and create something awesome together! 🚀💻
+### Hello there! 👋 I'm Dan, a passionate computer science major with a knack for mobile and backend development. I thrive on building innovative solutions and creating digital experiences that make a difference. Whether it's crafting intuitive mobile apps or architecting robust backend systems, I'm always up for a coding challenge. Let's connect and create something awesome together! 🚀💻
 
 
 ⚡ Fun fact: I  have a space theory hahaha... <br>
