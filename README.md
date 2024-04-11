@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmwinzi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!--
+--
 **Dmwinzi/Dmwinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android Projects / Spring Back End Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me:  
 - 😄 Pronouns: 
 - ⚡ Fun fact: I  have a space theory hahaha...
 -->
