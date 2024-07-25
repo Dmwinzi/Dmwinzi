@@ -9,11 +9,9 @@
 
 
 --
-**Dmwinzi/Dmwinzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mobile  
+- 🔭 I’m currently working as a Mobile Developer / Back-end Developer  
 - 👯 I’m looking to collaborate on Mobile projects / Server side programming 
 - 💬 Ask me about everything algorithm analysis and algorithms
 - 📫 How to reach me:  kavisudaniel@gmail.com
