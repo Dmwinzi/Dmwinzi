@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmwinzi&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmwinzi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working as a Mobile Developer / Back-end Developer  
-- 💬 Ask me about everything Algorithm analysis and Algorithms
-- 📫 How to reach me:  kavisudaniel@gmail.com   
+-  I’m currently working as a Mobile Developer / Back-end Developer  
+-  Ask me about everything Algorithm analysis and Algorithms
+-  How to reach me:  kavisudaniel@gmail.com   
 -->
