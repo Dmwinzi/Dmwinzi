@@ -13,11 +13,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 👯 I’m looking to collaborate on Android Projects / Spring Back End Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:  
-- 😄 Pronouns: 
+- 🔭 I’m currently working on Mobile  
+- 👯 I’m looking to collaborate on Mobile projects / Server side programming 
+- 💬 Ask me about everything algorithm analysis and algorithms
+- 📫 How to reach me:  kavisudaniel@gmail.com
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I  have a space theory hahaha...
 -->
