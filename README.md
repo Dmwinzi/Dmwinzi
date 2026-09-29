@@ -1,10 +1,48 @@
-### Hello there! 👋 I'm Dan, a passionate computer science major with a knack for mobile and backend development. I thrive on building innovative solutions and creating digital experiences that make a difference. Whether it's crafting intuitive mobile apps or architecting robust backend systems, I'm always up for a coding challenge. Let's connect and create something awesome together! 🚀💻
+<div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmwinzi&show_icons=true&theme=github_dark)]()<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmwinzi&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6d28d9&height=80&section=header&text=Dmwinzi%2FREADME.md&fontSize=28&fontColor=c4b5fd" width="100%" />
 
+</div>
 
--  I’m currently working as a Mobile Developer / Back-end Developer  
--  Ask me about everything Algorithm analysis and Algorithms
--  How to reach me:  kavisudaniel@gmail.com   
- 
+```
+              .  :=--#=.
+            :+@#*%@@@@@%*:
+         .#@@@@@@%%%%%%@@@%+:
+       -#@@@%%%%%@%%%%%@%%@@@#=           daniel@mwinzi
+      +@@%%%@@@@%@@%#%@@@%@@@@@%+         -------------------------------------------
+     =@@@@@@@@@@@@@@@%@@@@@@@@@%@%.       Role ........ Senior Software Engineer
+    :@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@.      Experience .. 4+ years
+    +@@@%+=======+++++++======+#@%@+      Mobile ...... Android (Java, Kotlin), Flutter, Dart
+    *@@%=-=======------=======--%@@#      Backend ..... Spring Boot, Supabase, Next.js
+    +@@#==-----==========-----==*@@%      Cloud ....... AWS, Docker, Kubernetes
+    =@*===+***#**======+***#*+===+%#      CI/CD ....... GitHub Actions, Jenkins
+    -@=-=+****+*#+=====#***+***+=-%+      Education ... BSc Computer Science
+  +**@+===++**#*+=====-=+*+#+++===%#**:   Building .... Homio / Wokoo (TickTask)
+ -%+*@+-=#:.#%@:-#===-*+.*#@-.*+-=@#+*=
+ .#+*%*-===--+=-=+====*=-=+=-=+===%#++:   - Contact ----------------------------------
+  **=%*-=========-====+-==========@++*    Email ....... kavisudaniel@gmail.com
+  .*##%=========================-*%*#:    X ........... @Mwinzi16
+    -+%+-========++++++==========%*=.
+      -%-======================-*#        - GitHub -----------------------------------
+       +#=-===*++++++++++*===--*%.        Repos ....... 64
+        =#+=---====+++===----+#*.
+         .=**+=----------==**+:
+            :+**++++++++**+-.
+               .--=====-:
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dmwinzi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Dmwinzi?style=for-the-badge&logo=github&color=8B5CF6)
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,spring,nextjs,supabase,aws,docker,kubernetes,githubactions,jenkins&perline=12" alt="skills" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dmwinzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmwinzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=Dmwinzi&theme=tokyonight&hide_border=true" />
+
+</div>
