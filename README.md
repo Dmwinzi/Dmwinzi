@@ -13,7 +13,7 @@
      =@@@@@@@@@@@@@@@%@@@@@@@@@%@%.       Role ........ Software Engineer
     :@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@.      Experience .. 4+ years
     +@@@%+=======+++++++======+#@%@+      Mobile ...... Android (Java, Kotlin), Flutter, Dart
-    *@@%=-=======------=======--%@@#      Backend ..... Spring Boot, Supabase, Next.js
+    *@@%=-=======------=======--%@@#      Backend ..... Spring Boot
     +@@#==-----==========-----==*@@%      Cloud ....... AWS, Docker, Kubernetes
     =@*===+***#**======+***#*+===+%#      CI/CD ....... GitHub Actions, Jenkins
     -@=-=+****+*#+=====#***+***+=-%+      Education ... BSc Computer Science
