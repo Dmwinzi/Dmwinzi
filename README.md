@@ -1,63 +1,21 @@
-
-```
-              .  :=--#=.
-            :+@#*%@@@@@%*:
-         .#@@@@@@%%%%%%@@@%+:
-       -#@@@%%%%%@%%%%%@%%@@@#=           daniel@mwinzi
-      +@@%%%@@@@%@@%#%@@@%@@@@@%+         -------------------------------------------
-     =@@@@@@@@@@@@@@@%@@@@@@@@@%@%.       Role ........ Senior Software Engineer
-    :@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@.      Experience .. 4+ years
-    +@@@%+=======+++++++======+#@%@+      Mobile ...... Android (Java, Kotlin), Flutter, Dart
-    *@@%=-=======------=======--%@@#      Backend ..... Spring Boot, Supabase, Next.js
-    +@@#==-----==========-----==*@@%      Cloud ....... AWS, Docker, Kubernetes
-    =@*===+***#**======+***#*+===+%#      CI/CD ....... GitHub Actions, Jenkins
-    -@=-=+****+*#+=====#***+***+=-%+      Education ... BSc Computer Science
-  +**@+===++**#*+=====-=+*+#+++===%#**:  
- -%+*@+-=#:.#%@:-#===-*+.*#@-.*+-=@#+*=
- .#+*%*-===--+=-=+====*=-=+=-=+===%#++:   - Contact ----------------------------------
-  **=%*-=========-====+-==========@++*    Email ....... kavisudaniel@gmail.com
-  .*##%=========================-*%*#:  
-    -+%+-========++++++==========%*=.
-      -%-======================-*#        - Focus ------------------------------------
-       +#=-===*++++++++++*===--*%.        Architecture  Mobile platforms, API design, scalable systems
-        =#+=---====+++===----+#*.         Delivery .... CI/CD, cloud-native infra, release automation
-         .=**+=----------==**+:         
-            :+**++++++++**+-.
-               .--=====-:
-```
-
 <div align="center">
 
-<a href="https://github.com/Dmwinzi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+4%2B+years;Android+%C2%B7+Flutter+%C2%B7+Spring+Boot;Shipping+mobile+apps+backed+by+the+cloud" alt="Typing SVG" />
-</a>
+<img src="./ascii.svg" alt="daniel@kavisu: Senior Software Engineer. Mobile, backend, cloud, DevOps and penetration testing." width="100%" />
+
+<img src="./tagline.svg" alt="Senior Software Engineer | Mobile and Backend, Cloud and DevOps | Android, Flutter, Spring Boot, AWS | Penetration testing enthusiast" width="100%" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dmwinzi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Dmwinzi?style=for-the-badge&logo=github&color=8B5CF6)
+[![Email](https://img.shields.io/badge/CONTACT-EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117)](mailto:kavisudaniel@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Dmwinzi&color=00ff41&labelColor=0d1117&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Dmwinzi?style=for-the-badge&logo=github&logoColor=00ff41&color=00ff41&labelColor=0d1117)
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,spring,nextjs,supabase,aws,docker,kubernetes,githubactions,jenkins&perline=12" alt="skills" />
-
-</div>
-
-<br/>
-
-<!-- ============ STATS ============ -->
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dmwinzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmwinzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Dmwinzi&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,spring,nextjs,supabase,aws,docker,kubernetes,githubactions,jenkins,linux,bash&perline=14" alt="skills" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6d28d9&height=100&section=footer" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Dmwinzi&background=030806&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=39ff14&currStreakLabel=00ff41&sideLabels=39ff14&dates=6b7280&stroke=0f5c25&hide_border=false&border=0f5c25" alt="GitHub streak" />
 
 </div>
