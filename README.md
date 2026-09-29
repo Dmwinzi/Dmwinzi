@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:6d28d9&height=80&section=header&text=Dmwinzi%2FREADME.md&fontSize=28&fontColor=c4b5fd" width="100%" />
-
-</div>
-
 ```
               .  :=--#=.
             :+@#*%@@@@@%*:
